@@ -15,10 +15,10 @@
 ## Screenshots
 
 <img src="https://github.com/mahendramahi/FlutterDemos/blob/master/ScreenShots/HeroAnimation.gif" height="30%" width="30%">
-<img src="https://raw.githubusercontent.com/duytq94/demo-flutter/master/ScreenShots/Animation.jpg" height="30%" width="30%">
-<img src="https://raw.githubusercontent.com/duytq94/demo-flutter/master/ScreenShots/EditProfile.jpg" height="30%" width="30%">
-<img src="https://raw.githubusercontent.com/duytq94/demo-flutter/master/ScreenShots/MusicPlayer.jpg" height="30%" width="30%">
-<img src="https://raw.githubusercontent.com/duytq94/demo-flutter/master/ScreenShots/MediumClap.gif" height="30%" width="30%">
-<img src="https://raw.githubusercontent.com/duytq94/demo-flutter/master/ScreenShots/FetchApi.jpg" height="30%" width="30%">
-<img src="https://raw.githubusercontent.com/duytq94/demo-flutter/master/ScreenShots/DetailInfo.jpg" height="30%" width="30%">
-<img src="https://raw.githubusercontent.com/duytq94/demo-flutter/master/ScreenShots/ToolWidget.jpg" height="30%" width="30%">
+<img src="https://github.com/mahendramahi/FlutterDemos/blob/master/ScreenShots/Animation.jpg" height="30%" width="30%">
+<img src="https://github.com/mahendramahi/FlutterDemos/blob/master/ScreenShots/EditProfile.jpg" height="30%" width="30%">
+<img src="https://github.com/mahendramahi/FlutterDemos/blob/master/ScreenShots/MusicPlayer.jpg" height="30%" width="30%">
+<img src="https://github.com/mahendramahi/FlutterDemos/blob/master/ScreenShots/MediumClap.gif" height="30%" width="30%">
+<img src="https://github.com/mahendramahi/FlutterDemos/blob/master/ScreenShots/FetchApi.jpg" height="30%" width="30%">
+<img src="https://github.com/mahendramahi/FlutterDemos/blob/master/ScreenShots/DetailInfo.jpg" height="30%" width="30%">
+<img src="https://github.com/mahendramahi/FlutterDemos/blob/master/ScreenShots/ToolWidget.jpg" height="30%" width="30%">
